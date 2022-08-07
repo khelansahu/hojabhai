@@ -1,0 +1,22 @@
+body{
+  background-color: rgb(195, 222, 217);
+}
+  h1 {
+  color: red;
+  font-size: 100px;
+  font-style: italic;
+ }
+img:hover{
+  background-color: gold;
+  
+  width: 100px;
+  height: 100px;
+}
+.bacon {
+ 
+  background-color: rgb(206, 187, 187);
+}f
+.broccoli {
+ 
+  background-color: rgb(240, 6, 6);
+}
